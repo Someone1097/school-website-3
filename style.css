@@ -1,0 +1,10 @@
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#p12 {
+    margin-right: 550px;
+    margin-left:  550px;
+}
